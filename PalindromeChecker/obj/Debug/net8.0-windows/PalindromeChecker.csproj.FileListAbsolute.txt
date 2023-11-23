@@ -1,0 +1,16 @@
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0-windows\PalindromeChecker.exe
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0-windows\PalindromeChecker.deps.json
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0-windows\PalindromeChecker.runtimeconfig.json
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0-windows\PalindromeChecker.dll
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0-windows\PalindromeChecker.pdb
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.Form1.resources
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.csproj.GenerateResource.cache
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.AssemblyInfo.cs
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.dll
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\refint\PalindromeChecker.dll
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.pdb
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.genruntimeconfig.cache
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\ref\PalindromeChecker.dll
