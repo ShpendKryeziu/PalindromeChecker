@@ -12,6 +12,7 @@ namespace PalindromeChecker
             string phrase = textBox1.Text;
             bool containsInt = phrase.Any(char.IsDigit);
             char[] arr = phrase.Trim().ToLower().ToCharArray();
+            arr = arr.Where(e => char.IsLetter(e)).ToArray();
             if (string.IsNullOrWhiteSpace(phrase)) {
                 label2.ForeColor = Color.Red;
                 label2.Text = "You must insert at least a character.";
