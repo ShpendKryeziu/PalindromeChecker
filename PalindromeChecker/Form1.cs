@@ -11,7 +11,7 @@ namespace PalindromeChecker
         {
             string phrase = textBox1.Text;
             bool containsInt = phrase.Any(char.IsDigit);
-            char[] arr = phrase.Trim().ToCharArray();
+            char[] arr = phrase.Trim().ToLower().ToCharArray();
             if (string.IsNullOrWhiteSpace(phrase)) {
                 label2.ForeColor = Color.Red;
                 label2.Text = "You must insert at least a character.";
@@ -28,12 +28,13 @@ namespace PalindromeChecker
                 }
                 if (isPalindrome) {
                     label2.ForeColor = Color.Green;
-                    label2.Text = "Congratulations! It's a palindrome!";
+                    label2.Text = "Congratulations! " + phrase + " is a palindrome!";
                 } else {
                     label2.ForeColor = Color.Orange;
                     label2.Text = "Sorry, that's not a palindrome...";
                 }
             }
+            textBox1.Text = "";
         }
     }
 }

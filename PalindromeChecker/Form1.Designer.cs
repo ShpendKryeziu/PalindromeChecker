@@ -73,6 +73,7 @@
             // 
             // Form1
             // 
+            AcceptButton = button1;
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(570, 230);

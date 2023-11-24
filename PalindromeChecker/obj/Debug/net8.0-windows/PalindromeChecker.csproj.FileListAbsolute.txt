@@ -14,3 +14,4 @@ C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.
 C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.pdb
 C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.genruntimeconfig.cache
 C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\ref\PalindromeChecker.dll
+C:\Users\Shpend\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0-windows\PalindromeChecker.sourcelink.json
